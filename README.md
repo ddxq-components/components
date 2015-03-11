@@ -90,7 +90,6 @@ xx 模块由 [Page.js](http://visionmedia.github.io/page.js/) 修改而来，为
 # transform的第三方组件
 ==========
 
-![](https://travis-ci.org/ddxq-conponents/fastclick.svg?branch=master)
 
 transform [ftlabs/fastclick](https://github.com/ftlabs/fastclick) into installable [ddxq-components](https://github.com/ddxq-components) with [Travis](https://travis-ci.org/)
 
