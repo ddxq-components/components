@@ -1,0 +1,7 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "keywords": ["infrastructure"],
+  "description": "提供简洁的 OO 实现。",
+  "main":"index.js"
+}
